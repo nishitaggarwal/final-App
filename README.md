@@ -1,11 +1,22 @@
-# Sample Snack app
+# Sample Complaint registration app (Outcry:- A complaint App)
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+📢 Complaint App
+A React Native application built for a competition 3-4 years ago, designed to facilitate complaint registration and tracking. 
+Users can log in, submit complaints, and monitor their status, while administrators have a separate interface to review and manage registered complaints. The app utilizes Firestore (Firebase) as its backend database for real-time data management.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+✨ Features
+ * 🔐 User Authentication – Secure login system for users and admins.
+ * 📝 Complaint Registration – Users can submit complaints with relevant details.
+ * 📊 Real-time Tracking – Monitor complaint progress via Firestore.
+ * 🎛 Admin Panel – A separate screen for administrators to view and manage complaints.
+ * 📱 Minimal UI with React Libraries – Uses various React Native libraries for functionality and UI components.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+🏗 Tech Stack
+ * Frontend: React Native
+ * Backend: Firebase Firestore (NoSQL Database)
+ * Authentication: Firebase Authentication
+ * Libraries Used: Multiple React Native libraries for UI and functionality
+
+
